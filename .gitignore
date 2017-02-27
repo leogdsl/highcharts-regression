@@ -1,0 +1,10 @@
+*.log
+*.sln
+*.config
+*.suo
+*.tmp
+bower_components
+node_modules
+dist
+tmp
+docs
